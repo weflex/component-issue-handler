@@ -1,0 +1,33 @@
+{
+  "name": "component-issue-handler",
+  "version": "1.0.0",
+  "description": "A package to manage issues reported by clients",
+  "main": "./lib/",
+  "dependencies": {
+    "debug": "^3.0.1",
+    "strong-globalize": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-config-loopback": "^8.0.0",
+    "loopback": "^3.11.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weflex/issue-handler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weflex/issue-handler/issues"
+  },
+  "keywords": [
+    "issue",
+    "solution",
+    "categorize"
+  ],
+  "author": "Prashant Balan <prashant.balan@hotmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/weflex/issue-handler#readme"
+}
